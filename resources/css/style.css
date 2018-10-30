@@ -1,0 +1,28 @@
+#title {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+#download {
+  font-family: Verdana;
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+#guide {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+}
+#description {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+#footer {
+  text-align: right;
+  color: gray;
+  font-family: Verdana;
+}
